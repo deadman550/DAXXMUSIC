@@ -64,23 +64,9 @@ def help_pannel(_, START: Union[bool, int] = None):
                 ),
             ],
             [
-                InlineKeyboardButton(
-                    text="Vᴄʜᴀᴛs",
-                    callback_data="help_callback hb10",
-                ),
-                InlineKeyboardButton(
-                    text="Sᴛᴀʀᴛ",
-                    callback_data="help_callback hb11",
-                ),
-                InlineKeyboardButton(
-                    text="Sᴜᴅᴏ",
-                    callback_data="help_callback hb9",
-                ),
-                InlineKeyboardButton(
-                    text="Mᴏʀᴇ",
-                    url="https://t.me/daxxsir3"
-                ),
-                    
+                InlineKeyboardButton(text="Vᴄʜᴀᴛs",callback_data="help_callback hb10",),
+                InlineKeyboardButton(text="Sᴛᴀʀᴛ",callback_data="help_callback hb11",),
+                InlineKeyboardButton(text="Sᴜᴅᴏ",callback_data="help_callback hb9",),
             ],
             mark,
         ]
