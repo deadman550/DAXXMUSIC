@@ -3,28 +3,28 @@
 ### ❤️‍🔥𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒👀❣️
 
 <!--
-**DAXXSIR/DAXXSIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KinGEvilHacker/KinGEvilHacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/DAXXSIR/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/KinGEvilHacker/count.svg" />
 </p>
 
 
 
 
 <h2 align="center">
-    ─「 𝐂𝐘𝐁𝐄𝐑 𝐃𝐀𝐗𝐗 」─
+    ─「 KinG 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐓𝐇𝐄+𝐂𝐘𝐁𝐄𝐑+𝐃𝐀𝐗𝐗+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐓𝐇𝐄+KINGEVILHACKER+🎭">
 <p align="center">
-  <img src="https://graph.org/file/ee6ed3457986a6cfe5edc.jpg">
+  <img src="https://graph.org/file/ec2c38e61ce2a0b84d484.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗕𝗢𝗧❥](https://t.me/CYBERDAXX)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗕𝗢𝗧❥](https://t.me/Mikazukimusic_bot)**
 
 
 
@@ -37,7 +37,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DAXXSIR/DAXXMUSIC"> <img src="https://github.com/DAXXSIR/DAXXMUSIC/blob/master/AnonX/assets/1693819253886.png" width="620" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KinGEvilHacker/DAXXMUSIC"> <img src="https://github.com/KinGEvilHacker/DAXXMUSIC/blob/master/AnonX/assets/1693819253886.png" width="620" height="198.45"/></a></p>
 
 
 
@@ -49,7 +49,7 @@
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
 <p align="center">
-<a href="https://telegram.me/CYBERDAXXX"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐂𝐘𝐁𝐄𝐑 𝐃𝐀𝐗𝐗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/themortalclan"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 ˹ᴍɪss ✗ ʙᴏᴛ's ɴᴇᴛᴡᴏʀᴋ %20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -88,10 +88,10 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/CYBERDAXX"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/themortalclan"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/CYBERDAXXX"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/miss_x_network"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
