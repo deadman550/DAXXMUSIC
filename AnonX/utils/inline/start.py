@@ -47,10 +47,5 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                 text="Sᴜɢᴀʀ Dᴀᴅᴅʏ", user_id=OWNER
             )
         ],
-        [
-            InlineKeyboardButton(
-                text="Rᴏᴘᴇ", callback_data="gib_source"
-            )
-        ],
      ]
     return buttons
