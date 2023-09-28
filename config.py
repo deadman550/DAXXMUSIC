@@ -80,7 +80,7 @@ START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/e602356bafe2799f
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://graph.org/file/a7241f67a3ca3fc888f10.mp4",
+    "https://graph.org/file/ec2c38e61ce2a0b84d484.jpg",
 )
 
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
@@ -130,7 +130,7 @@ if UPSTREAM_REPO:
 if PING_IMG_URL:
     if PING_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
+            PING_IMG_URL = "https://graph.org/file/ec2c38e61ce2a0b84d484.jpg"
 
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
