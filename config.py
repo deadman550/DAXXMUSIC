@@ -9,7 +9,6 @@ load_dotenv()
 
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
-
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -59,7 +58,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "1073741824"))
 # https://www.gbmb.org/mb-to-bytes
 
 STRING1 = getenv("STRING_SESSION", None)
-STRING2 = getenv("STRING_SESSION2", None)
+STRING2 = getenv("STRING_SESSION2", "BQBS6o1GyCg89ywjJe-n69J6aJ58X9h2dkB6N08JHxfuKTXI6tOc8MgW9pIYFhtt1ykHpABaAJfJnMTZrt1-qLaTFVTLBZe2ARl6l8lxzBRiXAWUbm0OcnvMn4KreiEQl6tgi2ScchmNaxIjjLvquO0JYuqtZGPpOtqgmvDzV754gbkEDeERV824Egy3owtoczoefycUIIdXpmkdG1X_7RQeqJC3UU2d9im8oVUash693AIJdLLTmjQiOAh2TrdH61qja-NDBbO9Wo38vuMwkLyw_q-2WDqeRjt74dfDKezY88RaTAITdvkWXeMHmQ-SkzBvt3HXhak24BsaDJaaJe2mAAAAAYS5shsA")
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
