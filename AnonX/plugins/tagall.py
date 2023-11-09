@@ -47,8 +47,6 @@ EMOJI = [ "🦋🦋🦋🦋🦋",
           " 🥬🍉🧁🧇",
         ]
 
-TAGMES = [ {usrtext}
-           ]
 
 @app.on_message(filters.command(["tagall", "all", "tagmember", "utag", "stag", "hftag", "bstag", "eftag", "tag", "etag", "utag", "atag" ], prefixes=["/", "@", "#"]))
 async def mentionall(client, message):
@@ -93,10 +91,10 @@ async def mentionall(client, message):
 
         if usrnum == 1:
             if mode == "text_on_cmd":
-                txt = f"{usrtxt} {random.choice(TAGMES)}"
+                txt = f"{msg}\n{usrtxt}"
                 await client.send_message(chat_id, txt)
             elif mode == "text_on_reply":
-                await msg.reply(f"[{random.choice(EMOJI)}](tg://user?id={usr.user.id})")
+                await msg.reply(usrtxt)}](tg://user?id={usr.user.id})")
             await asyncio.sleep(4)
             usrnum = 0
             usrtxt = ""
