@@ -91,7 +91,7 @@ async def mentionall(client, message):
 
         if usrnum == 1:
             if mode == "text_on_cmd":
-                txt = f"{msg}\n{usrtxt}"
+                txt = f"msg\n{usrtxt}"
                 await client.send_message(chat_id, txt)
             elif mode == "text_on_reply":
                 await msg.reply(usrtxt)
